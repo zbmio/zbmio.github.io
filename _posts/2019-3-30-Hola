@@ -1,0 +1,5 @@
+如何使用 Jekyll Now 一分钟创建你的免费博客
+---
+1. 进入 https://github.com/barryclark/jekyll-now 点击Fork
+2. 将你的repo名称改为 yourname.github.io，修改后你可以尝试打开
+3. 如果第二步不能的话，编辑 _config.yml 文件
